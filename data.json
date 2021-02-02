@@ -1,0 +1,45 @@
+{
+    "1": {
+        "id": "1",
+        "date": "26 hunvar",
+        "price": "",
+        "quantity": 1,
+        "status":"@ntacqi mej",
+        "des": "rezi T, I, Z, lari yerkarutyune 2,4cm",
+        "img": "image/larer.jpg"
+    },
+
+
+    "2": {
+        "id": "2",
+        "date": "01 petrvar",
+        "price": " ",
+        "quantity": 2,
+        "status":"@ntacqi mej",
+        "des": "rezine A",
+        "img": "image/lar2.png"
+    },
+
+    "3": {
+        "id": "3",
+        "date": "31 hunvar",
+        "price": " ",
+        "quantity": 1,
+        "status":"@ntacqi mej",
+        "des": "rezine D, E, H",
+        "img": "image/bars.png"
+    },
+
+    "4": {
+        "id": "4",
+        "date": "2 petrvar",
+        "price": " ",
+        "quantity": 1,
+        "status":"@ntacqi mej",
+        "des": "rezine D-i klor detale akanjoxi hamar, hayaren a-ic nshadzev detal, V kam T-ic kasta qari hamar, poqr shxtaneri yerkarutyune 2cm, yerkarine` 4cm, taki aseghi yerkarutyune 1,5cm",
+        "img": "image/kaxvox.jpg"
+    }
+
+
+
+}
