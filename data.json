@@ -14,10 +14,10 @@
         "id": "2",
         "date": "01 petrvar",
         "price": " ",
-        "quantity": 2,
+        "quantity": 3,
         "status":"@ntacqi mej",
         "des": "rezine A",
-        "img": "image/lar2.png"
+        "img": "image/snakecuff.png"
     },
 
     "3": {
@@ -38,6 +38,16 @@
         "status":"@ntacqi mej",
         "des": "rezine D-i klor detale akanjoxi hamar, hayaren a-ic nshadzev detal, V kam T-ic kasta qari hamar, poqr shxtaneri yerkarutyune 2cm, yerkarine` 4cm, taki aseghi yerkarutyune 1,5cm",
         "img": "image/kaxvox.jpg"
+    },
+
+    "5": {
+        "id": "5",
+        "date": "minchev amsi 8@",
+        "price": " ",
+        "quantity": 1,
+        "status":"@ntacqi mej",
+        "des": "akanjox yerkarutyune 10 cm, asegh amenqe` 1,5cm, shxta 7cm , hastutyune 1mm, cuff@ I rezinic tsayri tereve ktrac, ",
+        "img": "image/cuffset.jpg"
     }
 
 
