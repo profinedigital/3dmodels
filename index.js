@@ -18,6 +18,11 @@ for (var key in data)
          ${dataarray.map(function (search) {
     
             return `  <div class="content-wrapper"  >
+
+            <label for="">${search.id}</label>
+
+
+
             <div class="img-wrapper">
              <img  class="image" src="${search.img}" class="img"   >
              </div>
