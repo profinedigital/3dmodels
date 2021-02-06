@@ -13,9 +13,9 @@
     "2": {
         "id": "2",
         "date": "01 petrvar",
-        "price": " ",
+        "price": "6000 poxancvac 06.02",
         "quantity": 3,
-        "status":"@ntacqi mej",
+        "status":"avartvac",
         "des": "rezine A",
         "img": "image/snakecuff.png"
     },
@@ -23,9 +23,9 @@
     "3": {
         "id": "3",
         "date": "31 hunvar",
-        "price": " ",
+        "price": "4500 poxancvac 06.02",
         "quantity": 1,
-        "status":"@ntacqi mej",
+        "status":"avartvac",
         "des": "rezine D, E, H",
         "img": "image/bars.png"
     },
@@ -33,9 +33,9 @@
     "4": {
         "id": "4",
         "date": "2 petrvar",
-        "price": " ",
+        "price": "2000  poxancvac 06.02",
         "quantity": 1,
-        "status":"@ntacqi mej",
+        "status":"avartvac",
         "des": "rezine D-i klor detale akanjoxi hamar, hayaren a-ic nshadzev detal, V kam T-ic kasta qari hamar, poqr shxtaneri yerkarutyune 2cm, yerkarine` 4cm, taki aseghi yerkarutyune 1,5cm",
         "img": "image/kaxvox.jpg"
     },
@@ -43,18 +43,18 @@
     "5": {
         "id": "5",
         "date": "minchev amsi 8@",
-        "price": " ",
+        "price": "1300 poxancvac 06.02",
         "quantity": 1,
-        "status":"@ntacqi mej",
+        "status":"avartvac",
         "des": "akanjox yerkarutyune 10 cm, asegh amenqe` 1,5cm, shxta 7cm , hastutyune 1mm, cuff@ I rezinic tsayri tereve ktrac, ",
         "img": "image/cuffset.jpg"
     },
     "6": {
         "id": "6",
         "date": "03.02",
-        "price": " ",
+        "price": "1200 poxancvac 06.02",
         "quantity": 1,
-        "status":"@ntacqi mej",
+        "status":"avartvac",
         "des": "kor akanjoxi rezine` U, qaffi rezine` X, shxtayi hastutyune 1mm, bayc kara 1,6mm el lini, akanji mej chi mtnelu, shxtayi yerkarutyune 7.5cm, shxtayi tsayrin petq a lini oxak vor dra mijov urish akanjoxi asegh karoxana ancni",
         "img": "image/ornate.png"
     }
