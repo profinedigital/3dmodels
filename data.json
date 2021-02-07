@@ -57,6 +57,15 @@
         "status":"avartvac",
         "des": "kor akanjoxi rezine` U, qaffi rezine` X, shxtayi hastutyune 1mm, bayc kara 1,6mm el lini, akanji mej chi mtnelu, shxtayi yerkarutyune 7.5cm, shxtayi tsayrin petq a lini oxak vor dra mijov urish akanjoxi asegh karoxana ancni",
         "img": "image/ornate.png"
+    },
+    "7": {
+        "id": "7",
+        "date": "07.02",
+        "price": "",
+        "quantity": 1,
+        "status":"entacqi mej",
+        "des": "rezin R , makeresi gndiknere hartacrac ",
+        "img": "image/13.png"
     }
 
 
