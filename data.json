@@ -66,8 +66,26 @@
         "status":"avartvac",
         "des": "rezin R , makeresi gndiknere hartacrac ",
         "img": "image/13.png"
-    }
+    },
+    "8": {
+        "id": "8",
+        "date": "16.02",
+        "price": " ",
+        "quantity": 1,
+        "status":"entacqi mej",
+        "des": "rezin W, aseghe tox mi qich aveli xorqic lini u en yerkaravun mot 2cm-anoc larov aseghneric vor aranc hetevi titeri amrana, ",
+        "img": "image/tarbervox.png"
+    },
 
+    "9": {
+        "id": "9",
+        "date": "16.02",
+        "price": "",
+        "quantity": 1,
+        "status":"entacqi mej",
+        "des": "rezine A",
+        "img": "image/snakecuff.png"
+    }
 
 
 }
