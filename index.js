@@ -11,6 +11,7 @@ $.getJSON('data.json', function (data) {
 
 for (var key in data)
     dataarray.push(data[key])
+    dataarray=dataarray.reverse()
 
     const show = (dataarray) => {   //display ready to wear model model
 

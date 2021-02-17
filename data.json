@@ -73,7 +73,7 @@
         "price": " ",
         "quantity": 1,
         "status":"entacqi mej",
-        "des": "rezin W, aseghe tox mi qich aveli xorqic lini u en yerkaravun mot 2cm-anoc larov aseghneric vor aranc hetevi titeri amrana, ",
+        "des": "rezin W, aseghe tox mi qich aveli xorqic lini u en yerkaravun mot 3cm-anoc larov aseghneric vor aranc hetevi titeri amrana, ",
         "img": "image/tarbervox.png"
     },
 
@@ -85,6 +85,15 @@
         "status":"entacqi mej",
         "des": "rezine A",
         "img": "image/snakecuff.png"
+    },
+    "10": {
+        "id": "10",
+        "date": "17.02",
+        "price": "",
+        "quantity": "1 zuyg",
+        "status":"entacqi mej",
+        "des": "rezine A hayeren, rezini mej ka es akanjoxi koravun detale, dranic petq a 4 hat amen akanji hamar, isk aseghi poxaren mot 3cm-anoc lar vor aranc titeri kpni akanjin ",
+        "img": "image/25.png"
     }
 
 
