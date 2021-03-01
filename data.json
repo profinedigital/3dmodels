@@ -103,6 +103,15 @@
         "status":"avartvac",
         "des": "rezine I, nkari cuff@ bayc  aranc terevi , senc ban sarqel enq 1 angam",
         "img": "image/16.png"
+    },
+    "12": {
+        "id": "12",
+        "date": "01.03",
+        "price": "1900 poxancvac ",
+        "quantity": 2,
+        "status":"avartvac",
+        "des": "rezin W, aseghe tox mi qich aveli xorqic lini u en yerkaravun mot 3cm-anoc larov aseghneric vor aranc hetevi titeri amrana, ",
+        "img": "image/tarbervox.png"
     }
 
 
