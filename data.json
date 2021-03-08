@@ -112,7 +112,36 @@
         "status":"avartvac",
         "des": "rezin W, aseghe tox mi qich aveli xorqic lini u en yerkaravun mot 3cm-anoc larov aseghneric vor aranc hetevi titeri amrana, ",
         "img": "image/tarbervox.png"
+    },
+    "13": {
+        "id": "13",
+        "date": "15.03",
+        "price": " ",
+        "quantity": 1,
+        "status":"entacqi mej ",
+        "des": " layn 3 mm , tramagic 1cm, bacvacq 5mm, pateri hastutyun 1mm ",
+        "img": "image/kloravun.png"
+    },
+
+    "14": {
+        "id": "14",
+        "date": "15.03",
+        "price": " ",
+        "quantity": 1,
+        "status":"entacqi mej ",
+        "des": " layn 4 mm , tapak ,  tramagic 1cm, bacvacq 5mm, pateri hastutyun 1.2mm, heto vran petq a 3 sharq qar lini ",
+        "img": "image/22.png"
+    },
+    "15": {
+        "id": "15",
+        "date": "15.03",
+        "price": " ",
+        "quantity": 2,
+        "status":"entacqi mej ",
+        "des": " rezin T kam V, sovorakan klor 4mm tramagcov kasta ",
+        "img": "image/gem earrings.png"
     }
+
 
 
 }
