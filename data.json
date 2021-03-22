@@ -118,8 +118,10 @@
         "date": "08.03",
         "price": "600 poxancvac",
         "quantity": 1,
+
         "status":"avartvac",
-        "des": " layn 3 mm , tramagic 1cm, bacvacq 5mm, pateri hastutyun 1mm ",
+
+        "des": " layn 3 mm , patere koravun, tramagic 9mm, bacvacq 5mm, pateri hastutyun 1mm ",
         "img": "image/kloravun.png"
     },
 
@@ -128,8 +130,10 @@
         "date": "08.03",
         "price": "1200 poxancvac",
         "quantity": 1,
+
         "status":"avartvac",
-        "des": " layn 4 mm , tapak ,  tramagic 1cm, bacvacq 5mm, pateri hastutyun 1.2mm, heto vran petq a 3 sharq qar lini ",
+
+        "des": " layn 4 mm , patere tapak ,  tramagic 9mm, bacvacq 5mm, pateri hastutyun 1.2mm, heto vran petq a 3 sharq qar lini ",
         "img": "image/22.png"
     },
     "15": {
