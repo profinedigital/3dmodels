@@ -116,9 +116,9 @@
     "13": {
         "id": "13",
         "date": "08.03",
-        "price": " ",
+        "price": "600 poxancvac",
         "quantity": 1,
-        "status":"entacqi mej ",
+        "status":"avartvac",
         "des": " layn 3 mm , tramagic 1cm, bacvacq 5mm, pateri hastutyun 1mm ",
         "img": "image/kloravun.png"
     },
@@ -126,18 +126,18 @@
     "14": {
         "id": "14",
         "date": "08.03",
-        "price": " ",
+        "price": "1200 poxancvac",
         "quantity": 1,
-        "status":"entacqi mej ",
+        "status":"avartvac",
         "des": " layn 4 mm , tapak ,  tramagic 1cm, bacvacq 5mm, pateri hastutyun 1.2mm, heto vran petq a 3 sharq qar lini ",
         "img": "image/22.png"
     },
     "15": {
         "id": "15",
         "date": "08.03",
-        "price": " ",
+        "price": "500 poxancvac",
         "quantity": 2,
-        "status":"entacqi mej ",
+        "status":"avartvac ",
         "des": " rezin T kam V, sovorakan klor 4mm tramagcov kasta ",
         "img": "image/gem earrings.png"
     }
