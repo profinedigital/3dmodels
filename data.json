@@ -17,7 +17,8 @@
         "quantity": 3,
         "status":"avartvac",
         "des": "rezine A",
-        "img": "image/snakecuff.png"
+        "img": "image/snakecuff.png",
+        "img": ""
     },
 
     "3": {
@@ -27,7 +28,8 @@
         "quantity": 1,
         "status":"avartvac",
         "des": "rezine D, E, H",
-        "img": "image/bars.png"
+        "img": "image/bars.png",
+         "img": ""
     },
 
     "4": {
@@ -37,7 +39,8 @@
         "quantity": 1,
         "status":"avartvac",
         "des": "rezine D-i klor detale akanjoxi hamar, hayaren a-ic nshadzev detal, V kam T-ic kasta qari hamar, poqr shxtaneri yerkarutyune 2cm, yerkarine` 4cm, taki aseghi yerkarutyune 1,5cm",
-        "img": "image/kaxvox.jpg"
+        "img": "image/kaxvox.jpg",
+         "img": ""
     },
 
     "5": {
@@ -47,7 +50,8 @@
         "quantity": 1,
         "status":"avartvac",
         "des": "akanjox yerkarutyune 10 cm, asegh amenqe` 1,5cm, shxta 7cm , hastutyune 1mm, cuff@ I rezinic tsayri tereve ktrac, ",
-        "img": "image/cuffset.jpg"
+        "img": "image/cuffset.jpg",
+         "img": ""
     },
     "6": {
         "id": "6",
@@ -56,7 +60,8 @@
         "quantity": 1,
         "status":"avartvac",
         "des": "kor akanjoxi rezine` U, qaffi rezine` X, shxtayi hastutyune 1mm, bayc kara 1,6mm el lini, akanji mej chi mtnelu, shxtayi yerkarutyune 7.5cm, shxtayi tsayrin petq a lini oxak vor dra mijov urish akanjoxi asegh karoxana ancni",
-        "img": "image/ornate.png"
+        "img": "image/ornate.png",
+         "img": ""
     },
     "7": {
         "id": "7",
@@ -65,7 +70,8 @@
         "quantity": 1,
         "status":"avartvac",
         "des": "rezin R , makeresi gndiknere hartacrac ",
-        "img": "image/13.png"
+        "img": "image/13.png",
+         "img": ""
     },
     "8": {
         "id": "8",
@@ -74,7 +80,8 @@
         "quantity": 1,
         "status":"avartvac",
         "des": "rezin W, aseghe tox mi qich aveli xorqic lini u en yerkaravun mot 3cm-anoc larov aseghneric vor aranc hetevi titeri amrana, ",
-        "img": "image/tarbervox.png"
+        "img": "image/tarbervox.png",
+         "img": ""
     },
 
     "9": {
@@ -84,7 +91,8 @@
         "quantity": 1,
         "status":"avartvac",
         "des": "rezine A",
-        "img": "image/snakecuff.png"
+        "img": "image/snakecuff.png",
+         "img": ""
     },
     "10": {
         "id": "10",
@@ -93,7 +101,8 @@
         "quantity": "1 zuyg",
         "status":"avartvac",
         "des": "rezine A hayeren, rezini mej ka es akanjoxi koravun detale, dranic petq a 4 hat amen akanji hamar, isk aseghi poxaren mot 3cm-anoc lar vor aranc titeri kpni akanjin ",
-        "img": "image/25.png"
+        "img": "image/25.png",
+         "img": ""
     },
     "11": {
         "id": "11",
@@ -102,7 +111,8 @@
         "quantity": 1,
         "status":"avartvac",
         "des": "rezine I, nkari cuff@ bayc  aranc terevi , senc ban sarqel enq 1 angam",
-        "img": "image/16.png"
+        "img": "image/16.png",
+         "img": ""
     },
     "12": {
         "id": "12",
@@ -111,7 +121,8 @@
         "quantity": 2,
         "status":"avartvac",
         "des": "rezin W, aseghe tox mi qich aveli xorqic lini u en yerkaravun mot 3cm-anoc larov aseghneric vor aranc hetevi titeri amrana, ",
-        "img": "image/tarbervox.png"
+        "img": "image/tarbervox.png",
+         "img": ""
     },
     "13": {
         "id": "13",
@@ -122,7 +133,8 @@
         "status":"avartvac",
 
         "des": " layn 3 mm , patere koravun, tramagic 9mm, bacvacq 5mm, pateri hastutyun 1mm ",
-        "img": "image/kloravun.png"
+        "img": "image/kloravun.png",
+         "img": ""
     },
 
     "14": {
@@ -134,7 +146,8 @@
         "status":"avartvac",
 
         "des": " layn 4 mm , patere tapak ,  tramagic 9mm, bacvacq 5mm, pateri hastutyun 1.2mm, heto vran petq a 3 sharq qar lini ",
-        "img": "image/22.png"
+        "img": "image/22.png",
+         "img": ""
     },
     "15": {
         "id": "15",
@@ -143,7 +156,8 @@
         "quantity": 2,
         "status":"avartvac ",
         "des": " rezin T kam V, sovorakan klor 4mm tramagcov kasta ",
-        "img": "image/gem earrings.png"
+        "img": "image/gem earrings.png",
+         "img": ""
     },
     "16": {
         "id": "16",
@@ -152,7 +166,8 @@
         "quantity": " 1 zuyg amenqic , 6 miavor",
         "status":"avartvac ",
         "des": " astx, lusin, kaycak ",
-        "img": ""
+        "img": "",
+         "img": ""
     },
     "17": {
         "id": "17",
@@ -161,8 +176,60 @@
         "quantity": " 1 titer cuff , 1 hat hart cuff",
         "status":"avartvac ",
         "des": " ",
-        "img": ""
+        "img": "",
+         "img": ""
+    },
+      "18": {
+        "id": "18",
+        "date": "19.07.21",
+        "price": "",
+        "quantity": " 2 zuyg",
+        "status":"@ntacqi mej ",
+        "des": "rezin L,  hayeren A ",
+        "img": "image/triangle.png",
+           "img": ""
+    },
+     "19": {
+        "id": "19",
+        "date": "19.07.21",
+        "price": "",
+        "quantity": " 2 zuyg",
+        "status":"@ntacqi mej ",
+        "des": "rezin hayeren A ",
+        "img": "image/bar.png",
+          "img": ""
+    },
+     "20": {
+        "id": "20",
+        "date": "19.07.21",
+        "price": "",
+        "quantity": " 2 zuyg",
+        "status":"@ntacqi mej ",
+        "des": "rezin hayeren A ",
+        "img": "image/nush.png",
+          "img": ""
+    },
+     "21": {
+        "id": "21",
+        "date": "19.07.21",
+        "price": "",
+        "quantity": " 2 zuyg",
+        "status":"@ntacqi mej ",
+        "des": "qo mot exac detalneric ",
+        "img": "image/orn.png",
+          "img": ""
+    },
+     "22": {
+        "id": "22",
+        "date": "19.07.21",
+        "price": "",
+        "quantity": " 1 zuyg",
+        "status":"@ntacqi mej ",
+        "des": "rezin hayeren A shxtayi detalneri hamar, angleren M cuffi hamar, angleren U klipsneri hamar, tsayric tsayr yerkarutyn@ 10 cm, shxtan 1.6mm hast ",
+        "img": "image/kaxvox.png",
+          "img": " "
     }
+
 
 
 
