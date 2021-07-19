@@ -24,7 +24,7 @@ for (var key in data)
 
 
 
-            <div class="img-wrapper">
+            <div class="img-wrapper" style="display:flex;  flex-direction: column; " >
              <img  class="image" src="${search.img}" class="img"   >
              <img  class="image" src="${search.img2}" class="img"   >
 
