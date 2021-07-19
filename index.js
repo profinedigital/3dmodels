@@ -26,6 +26,8 @@ for (var key in data)
 
             <div class="img-wrapper">
              <img  class="image" src="${search.img}" class="img"   >
+             <img  class="image" src="${search.img2}" class="img"   >
+
              </div>
 
 
