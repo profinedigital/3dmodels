@@ -124,7 +124,7 @@
         "status":"avartvac",
         "des": "rezin W, aseghe tox mi qich aveli xorqic lini u en yerkaravun mot 3cm-anoc larov aseghneric vor aranc hetevi titeri amrana, ",
         "img": "image/tarbervox.png",
-         "img": ""
+         "img2": ""
     },
     "13": {
         "id": "13",
@@ -186,7 +186,7 @@
         "id": "22",
         "date": "19.07.21",
         "price": "",
-        "quantity": " 1 zuyg",
+        "quantity": " 1 hat, menak shxatyov akanjoxe, aranc myus akanji detali u qarerov cuffi",
         "status":"@ntacqi mej ",
         "des": "rezin hayeren A shxtayi detalneri hamar, angleren M cuffi hamar, angleren U klipsneri hamar, tsayric tsayr yerkarutyn@ 10 cm, shxtan 1.6mm hast ",
         "img": "image/kaxvox.png",
@@ -201,7 +201,112 @@
         "des": "rezine I, kloracnel petq chi",
         "img": "image/16.png",
          "img2": ""
+    },
+    "24": {
+        "id": "24",
+        "date": "09.08",
+        "price": " ",
+        "quantity": 5,
+        "status":"entacqi mej",
+        "des": "rezine E, H",
+        "img": "image/15.png",
+         "img2": ""
+    },
+    "25": {
+        "id": "25",
+        "date": "09.08",
+        "price": " ",
+        "quantity": 2,
+        "status":"entacqi mej",
+        "des": "rezine O",
+        "img": "image/18.png",
+         "img2": ""
+    },
+    "26": {
+        "id": "26",
+        "date": "09.08",
+        "price": " ",
+        "quantity": 1,
+        "status":"entacqi mej",
+        "des": "rezine A",
+        "img": "image/snakecuff.png",
+         "img2": ""
+    },
+    "27": {
+        "id": "27",
+        "date": "09.08",
+        "price": " ",
+        "quantity": 3,
+        "status":"entacqi mej",
+        "des": "rezine M",
+        "img": "image/22.png",
+         "img2": ""
+    },
+    "28": {
+        "id": "28",
+        "date": "09.08",
+        "price": " ",
+        "quantity": 2,
+        "status":"entacqi mej",
+        "des": "rezine Z",
+        "img": "image/20.png",
+         "img2": ""
+    },
+    "29": {
+        "id": "29",
+        "date": "09.08",
+        "price": " ",
+        "quantity": 2,
+        "status":"entacqi mej",
+        "des": "rezine O , aranc emal",
+        "img": "image/17.png",
+         "img2": ""
+    },
+    "30": {
+        "id": "30",
+        "date": "09.08",
+        "price": " ",
+        "quantity": "3 zuyg" ,
+        "status":"entacqi mej",
+        "des": "rezine klor@  K , poqr cuff@ M, aranc emal, shxtayi mex 1mm hast, 1.5 cm erkar, shxta 13cm, shxtayi hast 1mm ",
+        "img": "image/2664.png",
+         "img2": ""
+    },
+    "31": {
+        "id": "31",
+        "date": "09.08",
+        "price": " ",
+        "quantity": "2 zuyg" ,
+        "status":"entacqi mej",
+        "des": "rezine titerner  F, G , poqr cuff@ M, aranc emal, shxtayi mex 1mm hast, 1.5 cm erkar, shxta 13cm, shxtayi hast 1mm  ",
+        "img": "image/titer.png",
+         "img2": ""
+    },
+
+
+    "32": {
+        "id": "32",
+        "date": "09.08",
+        "price": " ",
+        "quantity": "2 zuyg" ,
+        "status":"entacqi mej",
+        "des": "rezine cuff  X, katil U,  shxtayi mex 1mm hast, 1.5 cm erkar, shxta 2 hatvacn el  7-akan cm, shxtayi hast 1mm  ",
+        "img": "image/78.png",
+         "img2": ""
+    },
+    
+
+    "33": {
+        "id": "33",
+        "date": "09.08",
+        "price": " ",
+        "quantity": "2 zuyg" ,
+        "status":"entacqi mej",
+        "des": "rezine  U (lav chem hishum) mexi glxiki hamar,  shxtayi mex 1mm hast, 1.5 cm erkar, shxta 7cm cayrin oxak, shxtayi hast 1mm  ",
+        "img": "image/79.png",
+         "img2": ""
     }
+
 
 
 
