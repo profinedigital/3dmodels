@@ -181,46 +181,7 @@
         "img": "",
          "img2": ""
     },
-      "18": {
-        "id": "18",
-        "date": "19.07.21",
-        "price": "",
-        "quantity": " 2 zuyg",
-        "status":"@ntacqi mej ",
-        "des": "rezin L,  hayeren A ",
-        "img": "image/trinagle.png",
-           "img2": ""
-    },
-     "19": {
-        "id": "19",
-        "date": "19.07.21",
-        "price": "",
-        "quantity": " 2 zuyg",
-        "status":"@ntacqi mej ",
-        "des": "rezin hayeren A ",
-        "img": "image/bar.png",
-          "img2": ""
-    },
-     "20": {
-        "id": "20",
-        "date": "19.07.21",
-        "price": "",
-        "quantity": " 2 zuyg",
-        "status":"@ntacqi mej ",
-        "des": "rezin hayeren A ",
-        "img": "image/nush.png",
-          "img2": ""
-    },
-     "21": {
-        "id": "21",
-        "date": "19.07.21",
-        "price": "",
-        "quantity": " 2 zuyg",
-        "status":"@ntacqi mej ",
-        "des": "qo mot exac detalneric ",
-        "img": "image/orn.png",
-          "img2": ""
-    },
+     
      "22": {
         "id": "22",
         "date": "19.07.21",
@@ -230,6 +191,16 @@
         "des": "rezin hayeren A shxtayi detalneri hamar, angleren M cuffi hamar, angleren U klipsneri hamar, tsayric tsayr yerkarutyn@ 10 cm, shxtan 1.6mm hast ",
         "img": "image/kaxvox.png",
           "img2": "image/kaxvox2.png "
+    },
+      "23": {
+        "id": "23",
+        "date": "09.08",
+        "price": " ",
+        "quantity": 4,
+        "status":"entacqi mej",
+        "des": "rezine I, kloracnel petq chi",
+        "img": "image/16.png",
+         "img2": ""
     }
 
 
