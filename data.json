@@ -308,7 +308,78 @@
         "des": "rezine klor@  K , poqr cuff@ M, aranc emal, shxtayi mex 1mm hast, 1.5 cm erkar, shxta 13cm, shxta barak",
         "img": "image/2664.png",
          "img2": ""
+    },
+
+    "35": {
+        "id": "35",
+        "date": "10.09-20.09",
+        "price": " ",
+        "quantity": 5,
+        "status":"entacqi mej",
+        "des": "rezine O , aranc emal",
+        "img": "image/17.png",
+         "img2": ""
+    },
+
+    "36": {
+        "id": "36",
+        "date": "10.09-20.09",
+        "price": " ",
+        "quantity": 5,
+        "status":"entacqi mej",
+        "des": "rezine I, kloracnel petq chi",
+        "img": "image/16.png",
+         "img2": ""
+    },
+
+    "37": {
+        "id": "37",
+        "date": "10.09-20.09",
+        "price": " ",
+        "quantity": 10,
+        "status":"entacqi mej",
+        "des": "rezine M",
+        "img": "image/22.png",
+         "img2": ""
+    },
+
+    "38": {
+        "id": "38",
+        "date": "10.09-20.09",
+        "price": " ",
+        "quantity": "5 zuyg" ,
+        "status":"entacqi mej",
+        "des": "rezine klor@  K , poqr cuff@ M, aranc emal, shxtayi mex 1mm hast, 1.5 cm erkar, shxta 13cm, shxta barak",
+        "img": "image/2664.png",
+         "img2": ""
+    },
+
+
+    "39": {
+        "id": "39",
+        "date": "10.09-20.09",
+        "price": " ",
+        "quantity": "5 " ,
+        "status":"entacqi mej",
+        "des": "rezine cuff X ",
+        "img": "image/12.png",
+         "img2": ""
+    },
+
+    "40": {
+        "id": "40",
+        "date": "10.09-20.09",
+        "price": "",
+        "quantity": 4,
+        "status":"entacqi mej",
+        "des": "rezin W, aseghe yerkarneric vor aranc titer a , A tari skzbic, ",
+        "img": "image/tarbervox.png",
+         "img2": ""
     }
+
+
+
+
 
 
 
