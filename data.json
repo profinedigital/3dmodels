@@ -375,6 +375,28 @@
         "des": "rezin W, aseghe yerkarneric vor aranc titer a , A tari skzbic, ",
         "img": "image/tarbervox.png",
          "img2": ""
+    },
+    
+    "41": {
+        "id": "41",
+        "date": "10.09-15.09",
+        "price": "",
+        "quantity": 1,
+        "status":"entacqi mej",
+        "des": "vznoc margaritnerov u srtikov, shxta 42sm u 48 sm ",
+        "img": " ",
+         "img2": ""
+    },
+    
+     "42": {
+        "id": "42",
+        "date": "10.09-15.09",
+        "price": "",
+        "quantity": 1,
+        "status":"entacqi mej",
+        "des": "vznoc katilov u oxakov, shxta 42sm u 48 sm, shxta barak ",
+        "img": " ",
+         "img2": ""
     }
 
 
