@@ -310,23 +310,14 @@
          "img2": ""
     },
 
-    "35": {
-        "id": "35",
-        "date": "10.09-20.09",
-        "price": " ",
-        "quantity": 5,
-        "status":"entacqi mej",
-        "des": "rezine O , aranc emal",
-        "img": "image/17.png",
-         "img2": ""
-    },
+    
 
     "36": {
         "id": "36",
         "date": "10.09-20.09",
         "price": " ",
-        "quantity": 5,
-        "status":"entacqi mej",
+        "quantity":4,
+        "status":"avartvac poxancvac total 31000 dr telcell 25.09",
         "des": "rezine I, kloracnel petq chi",
         "img": "image/16.png",
          "img2": ""
@@ -336,8 +327,8 @@
         "id": "37",
         "date": "10.09-20.09",
         "price": " ",
-        "quantity": 10,
-        "status":"entacqi mej",
+        "quantity": 9,
+        "status":"avartvac poxancvac total 31000 telcell 25.09",
         "des": "rezine M",
         "img": "image/22.png",
          "img2": ""
@@ -347,8 +338,8 @@
         "id": "38",
         "date": "10.09-20.09",
         "price": " ",
-        "quantity": "5 zuyg" ,
-        "status":"entacqi mej",
+        "quantity": "4 zuyg" ,
+        "status":"avartvac poxancvac total 31000 dr telcell 25.09",
         "des": "rezine klor@  K , poqr cuff@ M, aranc emal, shxtayi mex 1mm hast, 1.5 cm erkar, shxta 13cm, shxta barak",
         "img": "image/2664.png",
          "img2": ""
@@ -360,7 +351,7 @@
         "date": "10.09-20.09",
         "price": " ",
         "quantity": "5 " ,
-        "status":"entacqi mej",
+        "status":"avartvac poxancvac total 31000 telcell 25.09",
         "des": "rezine cuff X ",
         "img": "image/12.png",
          "img2": ""
@@ -370,8 +361,8 @@
         "id": "40",
         "date": "10.09-20.09",
         "price": "",
-        "quantity": 4,
-        "status":"entacqi mej",
+        "quantity": 2,
+        "status":"avartvac poxancvac total 31000 telcell 25.09 ",
         "des": "rezin W, aseghe yerkarneric vor aranc titer a , A tari mejtexic, ",
         "img": "image/tarbervox.png",
          "img2": ""
@@ -382,7 +373,7 @@
         "date": "10.09-15.09",
         "price": "",
         "quantity": 1,
-        "status":"entacqi mej",
+        "status":"avartvac poxancvac total 31000 telcell 25.09",
         "des": "vznoc margaritnerov u srtikov, shxta 42sm u 48 sm, shxtayi tsayri katil U rezinic  ",
         "img": " ",
          "img2": ""
@@ -393,7 +384,7 @@
         "date": "10.09-15.09",
         "price": "",
         "quantity": 1,
-        "status":"entacqi mej",
+        "status":"avartvac poxancvac total 31000 telcell 25.09",
         "des": "vznoc katilov u oxakov, shxta 42sm u 48 sm, shxta barak, shxtayi tsayri katil U rezinic ",
         "img": " ",
          "img2": ""
