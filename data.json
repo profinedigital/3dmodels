@@ -388,7 +388,40 @@
         "des": "vznoc katilov u oxakov, shxta 42sm u 48 sm, shxta barak, shxtayi tsayri katil U rezinic ",
         "img": " ",
          "img2": ""
+    },
+    
+     "43": {
+        "id": "43",
+        "date": "11.10-19.10",
+        "price": "",
+        "quantity": 6,
+        "status":"@ntacqi mej",
+        "des": "rezin L",
+        "img": "https://raw.githubusercontent.com/ahakobyan16/images/master/image/paxlavaring2.png",
+         "img2": ""
+    },
+    "44": {
+        "id": "44",
+        "date": "11.10-19.10",
+        "price": "",
+        "quantity": 9,
+        "status":"@ntacqi mej",
+        "des": "rezin X",
+        "img": "https://raw.githubusercontent.com/ahakobyan16/images/master/image/flowerrings.png",
+         "img2": ""
+    },
+    "45": {
+        "id": "45",
+        "date": "11.10-19.10",
+        "price": " ",
+        "quantity": 5,
+        "status":"@ntacqi mej",
+        "des": "rezine E  25 hat poqr detal, rezin H 5 hat oxak",
+        "img": "https://raw.githubusercontent.com/ahakobyan16/images/master/image/hangcuff.png",
+         "img2": ""
     }
+
+
 
 
 
